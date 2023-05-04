@@ -14,7 +14,7 @@ using WebDriverManager;
 
 
 
-namespace WindowsChecklistInstaller
+namespace Selenium
 {
 
     class Program
